@@ -1,0 +1,13 @@
+# A APLICAÇÃO E OS TESTES NÃO POSSUEM DEPENDÊNCIAS EXTERNAS.
+# Basta Python 3.10+ e a biblioteca padrão:
+#     python main.py
+#     python -m unittest discover -s testes -t .
+#
+# As bibliotecas abaixo são opcionais e usadas apenas para REGERAR os
+# artefatos de entrega (PNG dos diagramas, relatório em PDF e apresentação).
+#
+# pip install -r requirements.txt
+
+cairosvg>=2.7      # converte os diagramas SVG em PNG (relatório e slides)
+# pptxgenjs (npm)  # geração da apresentação: npm install pptxgenjs
+# wkhtmltopdf      # conversão do relatório HTML em PDF (pacote do sistema)

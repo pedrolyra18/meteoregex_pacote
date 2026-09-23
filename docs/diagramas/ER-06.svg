@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1198" height="665" viewBox="0 0 1198 665" font-family="DejaVu Sans, Verdana, sans-serif">
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#44607f"/></marker><marker id="setaeps" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b3561d"/></marker></defs>
+<rect width="1198" height="665" fill="#ffffff"/>
+<text x="18" y="30" font-size="17" font-weight="bold" fill="#0f1c2e">AFNε ER-06 — Versão de firmware da estação</text>
+<text x="18" y="50" font-size="12" fill="#44607f">⟨D⟩ = [0-9]</text>
+<text x="18" y="68" font-size="12" fill="#44607f">q0 inicial (→)  •  estado final em círculo duplo  •  30 estados, 36 transições, 13 movimentos ε</text>
+<path d="M 112.0,105.0 L 184.0,105.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="148.0" y="96.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">f</text>
+<text x="148.0" y="96.0" font-size="13" text-anchor="middle" fill="#44607f">f</text>
+<path d="M 224.0,105.0 L 296.0,105.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="260.0" y="96.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">w</text>
+<text x="260.0" y="96.0" font-size="13" text-anchor="middle" fill="#44607f">w</text>
+<path d="M 336.0,105.0 L 408.0,105.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="372.0" y="96.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">-</text>
+<text x="372.0" y="96.0" font-size="13" text-anchor="middle" fill="#44607f">-</text>
+<path d="M 448.0,105.0 L 520.0,105.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="484.0" y="96.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">v</text>
+<text x="484.0" y="96.0" font-size="13" text-anchor="middle" fill="#44607f">v</text>
+<path d="M 558.0,113.0 Q 599.0,135.0 634.7,115.9" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="597.7" y="139.7" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">⟨D⟩</text>
+<text x="597.7" y="139.7" font-size="13" text-anchor="middle" fill="#44607f">⟨D⟩</text>
+<path d="M 640.0,97.0 Q 599.0,75.0 563.3,94.1" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="600.3" y="100.3" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="600.3" y="100.3" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 672.0,105.0 L 744.0,105.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="708.0" y="96.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">.</text>
+<text x="708.0" y="96.0" font-size="13" text-anchor="middle" fill="#44607f">.</text>
+<path d="M 782.0,113.0 Q 823.0,135.0 858.7,115.9" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="821.7" y="139.7" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">⟨D⟩</text>
+<text x="821.7" y="139.7" font-size="13" text-anchor="middle" fill="#44607f">⟨D⟩</text>
+<path d="M 864.0,97.0 Q 823.0,75.0 787.3,94.1" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="824.3" y="100.3" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="824.3" y="100.3" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 896.0,105.0 L 968.0,105.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="932.0" y="96.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">.</text>
+<text x="932.0" y="96.0" font-size="13" text-anchor="middle" fill="#44607f">.</text>
+<path d="M 1006.0,113.0 Q 1047.0,135.0 1082.7,115.9" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="1045.7" y="139.7" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">⟨D⟩</text>
+<text x="1045.7" y="139.7" font-size="13" text-anchor="middle" fill="#44607f">⟨D⟩</text>
+<path d="M 1088.0,97.0 Q 1047.0,75.0 1011.3,94.1" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="1048.3" y="100.3" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="1048.3" y="100.3" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 1087.4,111.7 Q 643.5,303.7 227.1,537.7" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="650.3" y="329.2" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="650.3" y="329.2" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 1097.3,121.0 Q 1077.0,178.0 1095.3,229.3" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="1086.6" y="191.6" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="1086.6" y="191.6" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 1086.0,251.0 L 1014.0,251.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="1050.0" y="242.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">-</text>
+<text x="1050.0" y="242.0" font-size="13" text-anchor="middle" fill="#44607f">-</text>
+<path d="M 974.0,251.0 L 902.0,251.0" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="938.0" y="242.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="938.0" y="242.0" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 862.0,251.0 L 790.0,251.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="826.0" y="242.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">a</text>
+<text x="826.0" y="242.0" font-size="13" text-anchor="middle" fill="#44607f">a</text>
+<path d="M 750.0,251.0 L 678.0,251.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="714.0" y="242.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">l</text>
+<text x="714.0" y="242.0" font-size="13" text-anchor="middle" fill="#44607f">l</text>
+<path d="M 638.0,251.0 L 566.0,251.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="602.0" y="242.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">p</text>
+<text x="602.0" y="242.0" font-size="13" text-anchor="middle" fill="#44607f">p</text>
+<path d="M 526.0,251.0 L 454.0,251.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="490.0" y="242.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">h</text>
+<text x="490.0" y="242.0" font-size="13" text-anchor="middle" fill="#44607f">h</text>
+<path d="M 414.0,251.0 L 342.0,251.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="378.0" y="242.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">a</text>
+<text x="378.0" y="242.0" font-size="13" text-anchor="middle" fill="#44607f">a</text>
+<path d="M 302.0,251.0 L 230.0,251.0" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="266.0" y="242.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="266.0" y="242.0" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 974.4,254.9 Q 920.4,267.5 892.1,308.1" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="926.8" y="289.5" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="926.8" y="289.5" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 862.0,327.0 L 790.0,327.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="826.0" y="318.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">b</text>
+<text x="826.0" y="318.0" font-size="13" text-anchor="middle" fill="#44607f">b</text>
+<path d="M 750.0,327.0 L 678.0,327.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="714.0" y="318.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">e</text>
+<text x="714.0" y="318.0" font-size="13" text-anchor="middle" fill="#44607f">e</text>
+<path d="M 638.0,327.0 L 566.0,327.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="602.0" y="318.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">t</text>
+<text x="602.0" y="318.0" font-size="13" text-anchor="middle" fill="#44607f">t</text>
+<path d="M 526.0,327.0 L 454.0,327.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="490.0" y="318.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">a</text>
+<text x="490.0" y="318.0" font-size="13" text-anchor="middle" fill="#44607f">a</text>
+<path d="M 416.4,318.2 Q 327.4,264.4 229.9,253.5" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="325.3" y="290.1" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="325.3" y="290.1" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 977.6,261.5 Q 914.1,311.6 887.2,381.5" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="923.3" y="331.5" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="923.3" y="331.5" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 862.0,403.0 L 790.0,403.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="826.0" y="394.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">r</text>
+<text x="826.0" y="394.0" font-size="13" text-anchor="middle" fill="#44607f">r</text>
+<path d="M 750.0,403.0 L 678.0,403.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="714.0" y="394.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">c</text>
+<text x="714.0" y="394.0" font-size="13" text-anchor="middle" fill="#44607f">c</text>
+<path d="M 639.6,395.8 Q 439.4,302.4 229.5,256.0" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="436.9" y="329.1" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="436.9" y="329.1" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 190.0,251.0 L 118.0,251.0" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="154.0" y="242.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">.</text>
+<text x="154.0" y="242.0" font-size="13" text-anchor="middle" fill="#44607f">.</text>
+<path d="M 91.6,267.7 Q 65.0,400.0 90.5,526.5" fill="none" stroke="#44607f" stroke-width="1.5" marker-end="url(#seta)"/>
+<text x="78.0" y="413.5" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">⟨D⟩</text>
+<text x="78.0" y="413.5" font-size="13" text-anchor="middle" fill="#44607f">⟨D⟩</text>
+<path d="M 98.4,532.3 Q 125.0,400.0 99.5,273.5" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="112.0" y="416.5" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="112.0" y="416.5" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<path d="M 112.0,549.0 L 184.0,549.0" fill="none" stroke="#b3561d" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#setaeps)"/>
+<text x="148.0" y="540.0" font-size="13" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">ε</text>
+<text x="148.0" y="540.0" font-size="13" text-anchor="middle" fill="#b3561d">ε</text>
+<circle cx="95" cy="105.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="95" y="109.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q0</text>
+<circle cx="207" cy="105.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="207" y="109.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q1</text>
+<circle cx="319" cy="105.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="319" y="109.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q2</text>
+<circle cx="431" cy="105.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="431" y="109.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q3</text>
+<circle cx="543" cy="105.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="543" y="109.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q4</text>
+<circle cx="655" cy="105.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="655" y="109.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q5</text>
+<circle cx="767" cy="105.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="767" y="109.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q6</text>
+<circle cx="879" cy="105.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="879" y="109.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q7</text>
+<circle cx="991" cy="105.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="991" y="109.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q8</text>
+<circle cx="1103" cy="105.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="1103" y="109.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q9</text>
+<circle cx="207" cy="549.0" r="21" fill="none" stroke="#1f3a5f" stroke-width="1.6"/>
+<circle cx="207" cy="549.0" r="17" fill="#e8f1e4" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="207" y="553.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q10</text>
+<circle cx="1103" cy="251.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="1103" y="255.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q11</text>
+<circle cx="991" cy="251.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="991" y="255.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q12</text>
+<circle cx="207" cy="251.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="207" y="255.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q13</text>
+<circle cx="879" cy="251.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="879" y="255.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q14</text>
+<circle cx="879" cy="327.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="879" y="331.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q20</text>
+<circle cx="879" cy="403.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="879" y="407.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q25</text>
+<circle cx="767" cy="251.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="767" y="255.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q15</text>
+<circle cx="767" cy="327.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="767" y="331.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q21</text>
+<circle cx="767" cy="403.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="767" y="407.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q26</text>
+<circle cx="655" cy="251.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="655" y="255.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q16</text>
+<circle cx="655" cy="327.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="655" y="331.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q22</text>
+<circle cx="655" cy="403.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="655" y="407.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q27</text>
+<circle cx="543" cy="251.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="543" y="255.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q17</text>
+<circle cx="543" cy="327.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="543" y="331.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q23</text>
+<circle cx="431" cy="251.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="431" y="255.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q18</text>
+<circle cx="431" cy="327.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="431" y="331.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q24</text>
+<circle cx="319" cy="251.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="319" y="255.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q19</text>
+<circle cx="95" cy="251.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="95" y="255.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q28</text>
+<circle cx="95" cy="549.0" r="17" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.6"/>
+<text x="95" y="553.0" font-size="12" text-anchor="middle" fill="#0f1c2e">q29</text>
+<path d="M 43,105.0 L 71,105.0" stroke="#1f3a5f" stroke-width="1.8" fill="none" marker-end="url(#seta)"/>
+<text x="43" y="95.0" font-size="12" text-anchor="start" fill="#1f3a5f">início</text>
+</svg>
